@@ -21,4 +21,4 @@ A simple API developed for node, that creates colors for the console CLI
   colors.log(colors.bold("This text should be bold"));
 ```
 
-* 0.1.0 Initial release
+* 0.1.1 Initial release

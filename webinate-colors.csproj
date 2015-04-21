@@ -22,6 +22,7 @@
   </ItemGroup>
   <ItemGroup>
     <TypeScriptCompile Include="Main.ts" />
+    <TypeScriptCompile Include="Test.ts" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">12.0</VisualStudioVersion>

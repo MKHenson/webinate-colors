@@ -1,0 +1,19 @@
+{
+  "name": "webinate-colors",
+  "version": "0.0.0",
+  "description": "A simple API developed for node, that creates colors for the console CLI",
+  "main": "Main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MKHenson/webinate-colors.git"
+  },
+  "author": "Mathew Henson <mat@webinate.net> (http://webinate.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MKHenson/webinate-colors/issues"
+  },
+  "homepage": "https://github.com/MKHenson/webinate-colors"
+}

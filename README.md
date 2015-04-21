@@ -5,10 +5,12 @@ A simple API developed for node, that creates colors for the console CLI
 
 ## Installation
 
+```
   npm install webinate-colors --save
-  
+```
 ## Usage
 
+```
   var colors = require("webinate-colors");
   colors.log(colors.red("This text should be in red"));
   colors.log(colors.green("This text should be in green"));
@@ -17,5 +19,6 @@ A simple API developed for node, that creates colors for the console CLI
   colors.log(colors.underline("This text should be underlined"));
   colors.log(colors.underline().green("This text should be underlined and in green"));
   colors.log(colors.bold("This text should be bold"));
-  
+```
+
 * 0.1.0 Initial release
